@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4c8b05a7e88747469353278ac8aad38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thug1: {fileID: 4093310696962661913, guid: 943a5a2590f83c140a6dd4d0ac1f13f9, type: 3}
+  - thug2: {instanceID: 0}
+  - thug3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
